@@ -1,0 +1,20 @@
+{
+    "name": "tor-detect",
+    "public": false,
+    "alias": [
+        "tor-detect.now.sh"
+    ],
+    "files": [
+        "index.js",
+    	".env",
+        "public/css/styles.css",
+        "public/images/onion_green.svg",
+        "public/images/onion_red.svg",
+        "public/images/favicon.png",
+        "index.html",
+        "package.json"
+    ],
+    "env": {
+        "NODE_ENV": "production"
+    }
+}
