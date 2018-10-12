@@ -1,6 +1,6 @@
 {
   "name": "tor-detect.now",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal service to check whether a visitor is running behing Tor.",
   "author": {
     "name": "Nikolaos Kamarinakis",
