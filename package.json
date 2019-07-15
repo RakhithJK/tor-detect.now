@@ -25,7 +25,7 @@
     "express-sanitizer": "^1.0.3",
     "helmet": "^3.15.0",
     "path": "^0.12.7",
-    "tor-detect": "^1.0.3",
+    "tor-detect": "^1.0.6",
     "validator": "^9.4.1"
   },
   "devDependencies": {
