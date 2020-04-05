@@ -18,17 +18,17 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "cookie-session": "^2.0.0-beta.3",
+    "body-parser": "^1.19.0",
+    "cookie-session": "^2.0.0-rc.1",
     "dotenv": "^5.0.0",
-    "express": "^4.16.4",
-    "express-sanitizer": "^1.0.3",
-    "helmet": "^3.15.0",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "helmet": "^3.22.0",
     "path": "^0.12.7",
-    "tor-detect": "^1.0.6",
+    "tor-detect": "^1.0.7",
     "validator": "^9.4.1"
   },
   "devDependencies": {
-    "nodemon": "^1.18.7"
+    "nodemon": "^1.19.4"
   }
 }
